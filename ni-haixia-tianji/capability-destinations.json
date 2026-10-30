@@ -1,0 +1,149 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.ni-haixia-tianji",
+  "router_entrypoint": "ni-haixia-tianji",
+  "entrypoint_count": 10,
+  "capability_count": 35,
+  "destinations": {
+    "cap.tianji.sancai-yiguo": {
+      "promoted_to": "tianji-sancai-yiguo",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-sancai-yiguo.md"
+    },
+    "cap.tianji.yangzhai-mingwei": {
+      "promoted_to": "tianji-yangzhai-mingwei",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-yangzhai-mingwei.md"
+    },
+    "cap.tianji.ziwei-sifang-sizheng": {
+      "promoted_to": "tianji-ziwei-pandu",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-ziwei-pandu.md"
+    },
+    "cap.tianji.mianxiang-shiergong": {
+      "promoted_to": "tianji-mianxiang",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-mianxiang.md"
+    },
+    "cap.tianji.qise-shengsi": {
+      "promoted_to": "tianji-qise-shengsi",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-qise-shengsi.md"
+    },
+    "cap.tianji.guanrenshu-xiaoren": {
+      "promoted_to": "tianji-guanrenshu",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-guanrenshu.md"
+    },
+    "cap.tianji.santing-wuxingren": {
+      "promoted_to": "tianji-xingti-fenlei",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-xingti-fenlei.md"
+    },
+    "cap.tianji.rendao-64gua": {
+      "promoted_to": "tianji-rendao-64gua",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-rendao-64gua.md"
+    },
+    "cap.tianji.sizhu-minggua": {
+      "promoted_to": "tianji-sizhu-minggua",
+      "router_view": "ni-haixia-tianji/references/capabilities/tianji-sizhu-minggua.md"
+    },
+    "cap.tianji.yangzhai-xiongju-huajie": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-yangzhai-xiongju.md"
+    },
+    "cap.tianji.ziwei-paipan": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-ziwei-paipan.md"
+    },
+    "cap.tianji.sihua-kemming": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-sihua.md"
+    },
+    "cap.tianji.shisi-zhuxing": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-shisi-zhuxing.md"
+    },
+    "cap.tianji.liujixing": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-liujixing.md"
+    },
+    "cap.tianji.liushaxing": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-liushaxing.md"
+    },
+    "cap.tianji.miaowang-luoxian": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-miaowang-luoxian.md"
+    },
+    "cap.tianji.dayun-liunian": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-dayun-liunian.md"
+    },
+    "cap.tianji.lucun-lumajiaochi": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-lumajiaochi.md"
+    },
+    "cap.tianji.ziwei-geju": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-ziwei-geju.md"
+    },
+    "cap.tianji.liuqin-gong": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-liuqin-gong.md"
+    },
+    "cap.tianji.shengong-huaji-huajie": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-shengong-huajie.md"
+    },
+    "cap.tianji.shouxiang-bagong": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-shouxiang-bagong.md"
+    },
+    "cap.tianji.liushen-zhanguan": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-liushen-zhanguan.md"
+    },
+    "cap.tianji.jiehun-zeou": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-jiehun-zeou.md"
+    },
+    "cap.tianji.mingli-riyue-fanbei": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-mingli-riyue.md"
+    },
+    "cap.tianji.mingli-jige": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-mingli-jige.md"
+    },
+    "cap.tianji.mingli-xiongge": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-mingli-xiongge.md"
+    },
+    "cap.tianji.xiaoliuren": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-xiaoliuren.md"
+    },
+    "cap.tianji.faxuan-dingshchen": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-faxuan-dingshchen.md"
+    },
+    "cap.tianji.yinzhai-lailong": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-yinzhai-lailong.md"
+    },
+    "cap.tianji.jinqian-gua": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-jinqian-gua.md"
+    },
+    "cap.tianji.liushen-yingyong": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-liushen-yingyong.md"
+    },
+    "cap.tianji.kanyu-longxue": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-kanyu-longxue.md"
+    },
+    "cap.tianji.xiangshu-wangzhen": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-xiangshu-wangzhen.md"
+    },
+    "cap.tianji.sihua-mianxiang": {
+      "served_by": "ni-haixia-tianji",
+      "card": "ni-haixia-tianji/references/capabilities/tianji-sihua-mianxiang.md"
+    }
+  }
+}
